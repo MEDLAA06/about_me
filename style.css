@@ -1,0 +1,56 @@
+
+.fonts {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: italic;
+}
+.header_container{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    align-items: center;
+}.pfp_paragraph_interest{
+    display: flex;
+    padding: 10px;
+    background-color: rgb(43, 43, 43);
+    border-radius: 30px;
+    width: 930px;
+    background-image:url(image/background.jpeg);
+    opacity: 0.8;
+    border: solid ivory;
+}.pfp_paragraph_interest img{
+    width: 200px;
+    margin: 20px;
+    border-radius: 30px;
+}
+.p{
+    width: 300px;
+    align-items: center;
+}.section{
+    background-color:rgb(43, 43, 43);
+    padding: 10px;
+    border-radius: 30px;
+    margin: 10px;
+    width: 200px;
+     background-image:url(image/background.jpeg);
+    opacity: 0.8;
+    border: solid ivory;
+    align-items: center;
+
+    
+}.display{
+    display: flex;
+}.text{
+    padding: 10px;
+}.title{
+    background-color: rgb(31, 39, 61);
+    color: rgb(255, 255, 255);
+    width: 300Px;
+    padding: auto;
+    border-radius: 30px;
+    border: solid;
+    border-style: groove;
+    border-color: rgb(4, 0, 29);
+    
+}
